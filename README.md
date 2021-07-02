@@ -8,7 +8,7 @@ Becker, Paola Cristina Resende, Tiago Gräf, Eduardo Balsanelli, Valter Antônio
 
 ##  Supplementary Material
 
-### [Supplementary figures](https://github.com/mauromedeirosoliveira/Fiocruz-ICC.github.io/releases/download/untagged-2dc108c6c7d03d5740fa/SupplementaryMaterial_bioRxiv_Parana_SarsCoV_2.pdf) 
+### [Supplementary figures](https://github.com/mauromedeirosoliveira/Fiocruz-ICC/releases/download/untagged-6607c29f8088051a8c7e/SupplementaryMaterial_bioRxiv_Parana_SarsCoV_2.pdf) 
 Figure S1: SARS-CoV-2 variants identified at Paraná state in April 2021. 
 
 Figure S2: Distribution of SARS-CoV-2 variants identified in April 2021, according to macro-regions of Paraná state.
@@ -17,16 +17,16 @@ Figure S3: SARS-CoV-2 variants identified at Paraná state in April 2021, by age
 
 Figure S4: SARS-CoV-2 variants identified at Paraná state in April 2021, by clinical severity at the moment of sample collection (LAC: mild cases; LACEN: severe cases).
 
-### [Supplementary list](https://github.com/mauromedeirosoliveira/Fiocruz-ICC.github.io/releases/download/untagged-2dc108c6c7d03d5740fa/SupplementaryMaterial_bioRxiv_Parana_SarsCoV_2.pdf) 
+### [Supplementary list](https://github.com/mauromedeirosoliveira/Fiocruz-ICC/releases/download/untagged-6607c29f8088051a8c7e/SupplementaryMaterial_bioRxiv_Parana_SarsCoV_2.pdf) 
 List S1: GISAID accession numbers of 245 news genomes from Paraná produced by the Fiocruz COVID-19 Genomic Surveillance Network.
 
-### [Supplementary tables](https://github.com/mauromedeirosoliveira/Fiocruz-ICC.github.io/releases/download/untagged-2dc108c6c7d03d5740fa/SupplementaryMaterial_bioRxiv_Parana_SarsCoV_2.pdf) 
+### [Supplementary tables](https://github.com/mauromedeirosoliveira/Fiocruz-ICC/releases/download/untagged-6607c29f8088051a8c7e/SupplementaryMaterial_bioRxiv_Parana_SarsCoV_2.pdf) 
 
 Table S1: Non-synonymous mutations described for VOIs N.10-PR, N.10-MA and B.1.429.
 
 Table S2: Non-synonymous mutations described for P.1-like-II. 
 
-### [Supplementary appendix](https://github.com/mauromedeirosoliveira/Fiocruz-ICC.github.io/releases/download/untagged-2dc108c6c7d03d5740fa/gisaid_hcov-19_acknowledgement.pdf) 
+### [Supplementary appendix](https://github.com/mauromedeirosoliveira/Fiocruz-ICC/releases/download/untagged-6607c29f8088051a8c7e/gisaid_hcov-19_acknowledgement.pdf) 
 
 Appendix S1: GISAID acknowledgment file. 
 
