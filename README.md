@@ -7,7 +7,7 @@ Mauro de Medeiros Oliveira, Michelle Orane Schemberger, Andreia Akemi Suzukawa, 
 Becker, Paola Cristina Resende, Tiago Gräf, Eduardo Balsanelli, Valter Antônio de Baura, Emanuel Maltempi de Souza, Fábio de Oliveira Pedrosa, Lysangela Ronalte Alves, Lucas Blanes, Sheila Cristina Nardeli, Alessandra de Melo Aguiar, Letusa Albrecht, 1 Dalila Zanette, Andréa Rodrigues Ávila, Luis Gustavo Morello, Fabricio Klerynton Marchini, Hellen Geremias dos Santos, Fabio Passetti, Bruno Dallagiovanna, Helisson Faoro.
 
 ##  Supplementary Material
-File supplementary material [here](https://github.com/mauromedeirosoliveira/Fiocruz-ICC/releases/download/untagged-6607c29f8088051a8c7e/SupplementaryMaterial_bioRxiv_Parana_SarsCoV_2.pdf).
+File supplementary material [here](https://github.com/mauromedeirosoliveira/Fiocruz-ICC/releases/download/v1.0/SupplementaryMaterial_bioRxiv_Parana_SarsCoV_2.pdf).
 
 ### Supplementary figures
 Figure S1: SARS-CoV-2 variants identified at Paraná state in April 2021. 
@@ -29,7 +29,7 @@ Table S2: Non-synonymous mutations described for P.1-like-II.
 
 ### Supplementary appendix
 
-Appendix S1: GISAID acknowledgment file [here](https://github.com/mauromedeirosoliveira/Fiocruz-ICC/releases/download/untagged-6607c29f8088051a8c7e/gisaid_hcov-19_acknowledgement.pdf). 
+Appendix S1: GISAID acknowledgment file [here](https://github.com/mauromedeirosoliveira/Fiocruz-ICC/releases/download/v1.0/gisaid_hcov-19_acknowledgement.pdf). 
 
 ## Availability of Data
 
